@@ -1,2 +1,2 @@
-# Trabajao-IA---Entrega-1
+# Trabajao-IA
 Archivos de la primera entrega 
