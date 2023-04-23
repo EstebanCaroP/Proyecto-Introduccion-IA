@@ -6,9 +6,8 @@
 - Isabela Pareja, CC 1000207825 , Ingeniería Industrial
 - Esteban Caro Peláez,CC 1007223542 , Ingeniería Industrial 
 
-## Datos 
-
-Los datos del proyecto vienen de la competición https://www.kaggle.com/competitions/DontGetKicked/data?select=Carvana_Data_Dictionary.txt y se pueden hacer disponibles desde cualquier Notebook en Colab ejecutando los siguientes comandos: 
+## Datos
+Los datos del proyecto vienen de la competición [Dont Get Kicked](https://www.kaggle.com/competitions/DontGetKicked/overview) y se pueden hacer disponibles desde cualquier Notebook en Colab ejecutando los siguientes comandos: 
 
 
 ``` 
@@ -21,4 +20,4 @@ Después de haber subido la base de datos a un repositorio público en GitHub y 
 
 
 ## Videos
-Vídeo entrega 2: https://youtu.be/G1pKKKqYmNY
+[Video segunda entrega](https://youtu.be/G1pKKKqYmNY)
