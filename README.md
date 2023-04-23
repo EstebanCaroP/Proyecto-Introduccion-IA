@@ -17,6 +17,8 @@ Los datos del proyecto vienen de la competición https://www.kaggle.com/competit
 
 ```
 
+Después de haber subido la base de datos a un repositorio público en GitHub y adjuntar el link de la base de datos al Notebook. 
+
 
 ## Videos
 https://youtu.be/G1pKKKqYmNY
