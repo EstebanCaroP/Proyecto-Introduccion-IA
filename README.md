@@ -21,4 +21,4 @@ Después de haber subido la base de datos a un repositorio público en GitHub y 
 
 
 ## Videos
-https://youtu.be/G1pKKKqYmNY
+Vídeo entrega 2: https://youtu.be/G1pKKKqYmNY
