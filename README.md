@@ -8,7 +8,12 @@
 
 ## Datos 
 
-Los datos del proyecto vienen de la competición https://www.kaggle.com/competitions/DontGetKicked/data?select=Carvana_Data_Dictionary.txt
+Los datos del proyecto vienen de la competición https://www.kaggle.com/competitions/DontGetKicked/data?select=Carvana_Data_Dictionary.txt y se pueden hacer disponibles desde cualquier Notebook en Colab ejecutando los siguientes comandos: 
+
+
+url = 'https://raw.githubusercontent.com/IsaParejaGil/training-data/main/training.csv'
+df = pd.read_csv(url)
+
 
 ## Videos
 https://youtu.be/G1pKKKqYmNY
