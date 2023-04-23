@@ -9,3 +9,6 @@
 ## Datos 
 
 Los datos del proyecto vienen de la competición https://www.kaggle.com/competitions/DontGetKicked/data?select=Carvana_Data_Dictionary.txt
+
+## Videos
+https://youtu.be/G1pKKKqYmNY
